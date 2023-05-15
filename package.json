@@ -6,10 +6,12 @@
   "author": "YanaPIIDXer <yana_p_iidxer@yahoo.co.jp>",
   "license": "MIT",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "dev": "http-server ./html --port=3000"
   },
   "devDependencies": {
     "@types/node": "^20.1.4",
+    "http-server": "^14.1.1",
     "typescript": "^5.0.4"
   }
 }
