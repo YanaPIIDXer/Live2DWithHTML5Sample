@@ -1,0 +1,15 @@
+{
+  "name": "Live2DWithHTML5Sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YanaPIIDXer/Live2DWithHTML5Sample",
+  "author": "YanaPIIDXer <yana_p_iidxer@yahoo.co.jp>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.4",
+    "typescript": "^5.0.4"
+  }
+}
